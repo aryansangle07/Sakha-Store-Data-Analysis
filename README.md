@@ -19,8 +19,8 @@ It uses pivot tables, slicers, and charts to create an interactive dashboard for
 3. Use slicers to filter data by region, category, or year.  
 
 ## Dashboard Preview
-![Dashboard Screenshot](<img width="1506" height="591" alt="dashboard_preview" src="https://github.com/user-attachments/assets/8e38dc49-757b-4c80-9e56-b99367fe4c22" />
-)
+<img width="1506" height="591" alt="dashboard_preview" src="https://github.com/user-attachments/assets/c6d16bac-d419-4bdd-b168-1993fa9eec06" />
+
 
 ## Author
 Created by Aryan Sangle  
