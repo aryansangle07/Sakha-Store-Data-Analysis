@@ -14,7 +14,7 @@ It uses pivot tables, slicers, and charts to create an interactive dashboard for
 - Pivot Tables, Charts, and Slicers  
 
 ## How to Use
-1. Download retail_sales_dashboard.xlsx.  
+1. Download Sakha Store Data Analysis.xlsx.  
 2. Open it in Excel (2016 or later).  
 3. Use slicers to filter data by region, category, or year.  
 
